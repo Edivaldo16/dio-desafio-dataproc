@@ -10,10 +10,4 @@
 
 Apesar de ter conseguido completar o desafio fiquei em dúvidas em como deveria ser gerado o arquivo resultado.txt. Se deveria ser gerado copiando as 10 palavras do arquivo `part-0000` e colando em arquivo `resultado.txt`, ou se tinha alguma espécie de filtro no Job que possibilitasse a saída das 10 palavras no arquivo `part-00000`. Eu tentei colocar o valor 10 em `argumentos`, mas não consegui filtrar. 
 
-
-
-
-
-
-
-
+![Dúvidas](https://raw.githubusercontent.com/Edivaldo16/dio-desafio-dataproc/edit/main/job.png)
